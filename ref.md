@@ -1,6 +1,7 @@
 # 参考攻略
 
 ![overall](overall_1.jpg)
+![overall](overall_2.png)
 
 - 主题
   - 哈利·波特的魔法世界
